@@ -1,0 +1,21 @@
+# Java
+target/
+*.class
+*.jar
+.idea/
+
+# Secrets
+application.properties
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# React
+node_modules/
+dist/
+
+# VS Code
+.vscode/
